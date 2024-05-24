@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "668285095887",
+    "firebase_url": "https://geopixel-marketing-default-rtdb.firebaseio.com",
+    "project_id": "geopixel-marketing",
+    "storage_bucket": "geopixel-marketing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668285095887:android:3dace8f20af1ed31c6ccba",
+        "android_client_info": {
+          "package_name": "com.Novalens.GeoPixel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPzRzVOajxvIHKVfrKY4lY5auNIlf9XV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
